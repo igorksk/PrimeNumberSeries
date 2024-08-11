@@ -27,7 +27,5 @@ namespace PrimeNumberSeries
 
             Console.ReadLine();
         }
-
-       
     }
 }
